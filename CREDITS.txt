@@ -1,0 +1,8 @@
+LAST SEEN - asset credits
+
+BMW 1M model: "BMW27" Cycles benchmark scene by Mike Pan, from the Blender Foundation demo files.
+  https://download.blender.org/demo/test/  Check its licence and BMW's trademark before commercial use.
+People and motion capture: Microsoft Rocketbox Avatar Library, MIT licence.
+  https://github.com/microsoft/Microsoft-Rocketbox  (licence text in assets/rocketbox/LICENSE.txt)
+Trees, plants, rocks, road and ground textures, skies, spade, road barriers: Poly Haven, CC0.
+  https://polyhaven.com

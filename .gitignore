@@ -1,0 +1,21 @@
+# Downloaded and generated assets (last_seen_master.py recreates them)
+/assets/
+
+# Build and render output
+/last_seen.blend
+/last_seen.mp4
+/frames/
+/test_frames/
+
+# Blender backups and crash files
+*.blend[0-9]*
+*.crash.txt
+*.blend@
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+desktop.ini
